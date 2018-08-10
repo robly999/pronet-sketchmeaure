@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Asset 09</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pronet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Discover-landing-4" transform="translate(-213.000000, -593.000000)">
+            <g id="Bottom-nav" transform="translate(0.000000, 584.000000)">
+                <g id="Conversations-Off" transform="translate(180.000000, 0.000000)">
+                    <g id="Asset-09" transform="translate(33.000000, 8.000000)">
+                        <g id="Group">
+                            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                            <g id="Icon" transform="translate(1.000000, 2.000000)" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                <path d="M6.80952381,16.2380952 L0.523809524,16.2380952 C0.234666667,16.2380952 0,15.8132857 0,15.5204762 L0,0.658428571 C0,0.365619048 0.234666667,0.523809524 0.523809524,0.523809524 L21.4761905,0.523809524 C21.7653333,0.523809524 22,0.365619048 22,0.658428571 L22,15.5204762 C22,15.8132857 21.7653333,16.2380952 21.4761905,16.2380952 L14.1428571,16.2380952" id="Stroke-360"></path>
+                                <path d="M10.4761905,20.8210619 L13.9464286,16.5750619" id="Stroke-362"></path>
+                                <path d="M10.4761905,20.8210619 L7.00595238,16.5750619" id="Stroke-364"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
